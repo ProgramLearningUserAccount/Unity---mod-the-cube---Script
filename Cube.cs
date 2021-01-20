@@ -14,6 +14,7 @@ public class Cube : MonoBehaviour
     private Vector3 randomRot;
     private float ranRot = 100.0f;
 
+    //random scale varibales
     private float randomScale;
     private float scaleMin = 1.0f;
     private float scaleMax = 5.0f;
