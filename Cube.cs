@@ -66,6 +66,7 @@ public class Cube : MonoBehaviour
         //rotate
         transform.Rotate(randomRot * Time.deltaTime);
     }
+    
     IEnumerator ColorDissolve()
     {
         //dissolve to target color
